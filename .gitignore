@@ -1,0 +1,4 @@
+.env
+*.py[doc]
+__pycache__/
+waredb.db

@@ -1,0 +1,6 @@
+SQLAlchemy>=2.0,<2.2
+alembic>=1.13,<2.0
+python-dotenv>=1.0,<2.0
+
+# psycopg2-binary>=2.9   # postgresql+psycopg2://user:password@host:5432/waredb
+# PyMySQL>=1.1           # mysql+pymysql://user:password@host:3306/waredb
